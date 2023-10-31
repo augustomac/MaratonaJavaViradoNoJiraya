@@ -72,7 +72,7 @@
 1. Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação  **- 24/10/2023**
 1. Maratona Java 71 - Orientação Objetos - Herança pt 01  **- 24/10/2023**
 1. Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super  **- 24/10/2023**
-1. Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
+1. Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected  **- 30/10/2023**
 1. Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
 1. Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
 1. Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
