@@ -9,8 +9,7 @@ public class HerancaTest01 {
         endereco.setRua("Aldeia da Folha, Bairro Uchiha, Rua 3");
         endereco.setCep("012345-209");
 
-        Pessoa pessoa = new Pessoa();
-        pessoa.setNome("Itachi");
+        Pessoa pessoa = new Pessoa("Itachi");
         pessoa.setCpf("1111111");
         pessoa.setEndereco(endereco);
 
