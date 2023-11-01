@@ -73,12 +73,12 @@
 1. Maratona Java 71 - Orientação Objetos - Herança pt 01  **- 24/10/2023**
 1. Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super  **- 24/10/2023**
 1. Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected  **- 30/10/2023**
-1. Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
-1. Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
-1. Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
-1. Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
-1. Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
-1. Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
+1. Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores  **- 31/10/2023**
+1. Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização  **- 31/10/2023**
+1. Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString  **- 31/10/2023**
+1. Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo  **- 31/10/2023**
+1. Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência  **- 31/10/2023**
+1. Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos  **- 31/10/2023**
 1. Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
 1. Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
 1. Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
