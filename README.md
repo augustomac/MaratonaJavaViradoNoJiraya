@@ -79,10 +79,10 @@
 1. Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo  **- 31/10/2023**
 1. Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência  **- 31/10/2023**
 1. Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos  **- 31/10/2023**
-1. Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
-1. Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
-1. Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
-1. Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
+1. Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução  **- 02/11/2023**
+1. Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos  **- 02/11/2023**
+1. Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos  **- 02/11/2023**
+1. Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos  **- 02/11/2023**
 1. Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
 1. Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
 1. Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
