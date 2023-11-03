@@ -1,12 +1,7 @@
 package academy.devdojo.maratonajava.javacore.Kenum.dominio;
 
 public class Cliente {
-    public enum TipoPagamento {
-        //MESMO CRIANDO O ENUM NA CLASSE CLIENTE AINDA PRECISA CRIAR
-        //OS ATRIBUTOS
-        DEBITO,
-        CRETIDO
-    }
+
 
     private String nome;
     private TipoCliente tipoCliente;
