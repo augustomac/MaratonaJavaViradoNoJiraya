@@ -6,5 +6,8 @@ public interface DataLoader {
 //    (public abstract) void load();
 // como escrevi acima já é sob entendido que o método é public absstract, podendo ser chmado como abaixo
     void load();
+    default void checkPermission(){
+        System.out.println("Checando permissões.");
+    }
 
 }

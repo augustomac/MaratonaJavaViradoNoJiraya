@@ -10,6 +10,14 @@ public class DataLoaderTest01 {
 
         databaseLoader.load();
         fileLoader.load();
+
+        System.out.println("#####");
+        databaseLoader.remove();
+        fileLoader.remove();
+
+        System.out.println("#####");
+        databaseLoader.checkPermission();
+        fileLoader.checkPermission();
     }
 
 }
