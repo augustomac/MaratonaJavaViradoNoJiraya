@@ -1,5 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Minterfaces.dominio;
 
+<<<<<<< HEAD
 public class DatabaseLoader implements DataLoader, DataRemover{
     @Override
     public void load() {
@@ -18,5 +19,11 @@ public class DatabaseLoader implements DataLoader, DataRemover{
 
     public static void retrieveMaxDataSize(){
         System.out.println("Dentro do retrieveMaxDataSize na classe DatabaseLoader");
+=======
+public class DatabaseLoader implements DataLoader{
+    @Override
+    public void load() {
+        System.out.println("Carregando dados do banco de dados");
+>>>>>>> 08bd3dc (Aula 87 - Interfaces - Parte 01)
     }
 }
