@@ -8,8 +8,11 @@ public class FuncionarioTeste01 {
         Desenvolvedor desenvolvedor = new Desenvolvedor("Usopp", 7000);
         System.out.println(gerente);
         System.out.println(desenvolvedor);
+<<<<<<< HEAD
         desenvolvedor.imprime();
         gerente.imprime();
+=======
+>>>>>>> 10d9dff (Aula 85 - Classes Abstratas - 02)
 
     }
 
