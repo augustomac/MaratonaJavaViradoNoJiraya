@@ -10,10 +10,6 @@ public class Desenvolvedor extends Funcionario{
         this.salario = this.salario * 1.05;
     }
 
-    @Override
-    public void bonusSalario() {
-        this.salario = this.salario * 1.05;
-    }
 
     @Override
     public String toString() {

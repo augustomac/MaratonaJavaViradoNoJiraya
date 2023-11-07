@@ -1,9 +1,7 @@
 package academy.devdojo.maratonajava.javacore.Minterfaces.test;
 
-<<<<<<< HEAD
 import academy.devdojo.maratonajava.javacore.Minterfaces.dominio.DataLoader;
-=======
->>>>>>> 08bd3dc (Aula 87 - Interfaces - Parte 01)
+
 import academy.devdojo.maratonajava.javacore.Minterfaces.dominio.DatabaseLoader;
 import academy.devdojo.maratonajava.javacore.Minterfaces.dominio.FileLoader;
 
@@ -14,7 +12,6 @@ public class DataLoaderTest01 {
 
         databaseLoader.load();
         fileLoader.load();
-<<<<<<< HEAD
 
         System.out.println("#####");
         databaseLoader.remove();
@@ -28,8 +25,6 @@ public class DataLoaderTest01 {
         DataLoader.retrieveMaxDataSize();
         databaseLoader.retrieveMaxDataSize();
 
-=======
->>>>>>> 08bd3dc (Aula 87 - Interfaces - Parte 01)
     }
 
 }
